@@ -1,0 +1,11 @@
+<h2 class="m0a">Blogs I've Written:</h2>
+<div class="projects">
+  {% for item in site.posts  %}
+    <a href="{{item.url}}" class="nostyle">
+        <div class="project borders cards" data-aos="fade-up">
+            <div class="project-image" style="background-image: url({{item.image}})"></div>
+            <p class="title text-center">{{item.title}}</p>
+        </div>
+    </a>
+{% endfor %}
+</div>
