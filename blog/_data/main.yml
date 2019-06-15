@@ -1,9 +1,9 @@
 # Image, name, profession in the sidebar
 
-image: /assets/images/author-image.jpg
-name: John Doe
-profession: A Web Developer
-email: john@doe.com # The contact form submissions will be received in this email address.
+image: /blog/assets/images/author-image.jpg
+name: Dan Thompson (LeedsDBA)
+profession: Data Architect
+email: dba@techtree.co.uk # The contact form submissions will be received in this email address.
 
 # Menu items in the sidebar
 # Use a maximum of 3 items

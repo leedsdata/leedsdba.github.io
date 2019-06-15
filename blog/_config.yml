@@ -12,7 +12,7 @@
 
 title: Blackcurrant
 description: Blackcurrant is a minimal theme to show off your skills online.
-url: https://www.techtree.co.uk/blog/
+url: https://leedsdba.github.io/blog/
 
 # For more customizations, go to  _data/main.yml
 
@@ -97,7 +97,7 @@ recent-posts: yes
 # All compression variables are declared here.
 
 sass:
- sass_dir: /assets/css/_sass
+ sass_dir: /blog/assets/css/_sass
  style: compressed
 
 #compress.html
