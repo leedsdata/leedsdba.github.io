@@ -1,7 +1,7 @@
 ---
 title: Trip to Italy!
 image: /assets/images/samuel-zeller-103112.jpg
-author: John Doe
+author: Dan Thompson
 categories:
     - life
     - experience

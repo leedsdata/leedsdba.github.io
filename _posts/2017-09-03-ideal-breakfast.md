@@ -1,7 +1,7 @@
 ---
 title: An ideal breakfast!
 image: /assets/images/maarten-van-den-heuvel-400626.jpg
-author: John Doe
+author: Dan Thompson
 categories:
     - life
     - travel

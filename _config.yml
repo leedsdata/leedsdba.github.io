@@ -29,12 +29,12 @@ url: https://leedsdba.github.io/blog/
 # Remove # before 'color-scheme' to activate particular color scheme.
 # You can add your own color code as well.
 
-#color-scheme: '#1abc9c' # Green
-color-scheme: '#2693e6' # Blue
+# color-scheme: '#1abc9c' # Green
+# color-scheme: '#2693e6' # Blue
 # color-scheme: '#987ce6' # Purple
 # color-scheme: '#ea67a8' # Pink
 # color-scheme: '#ec632b' # Orange
-
+color-scheme: '#e62633' # Red
 
 # Kramdown is the default markdown processor used. It is supported by Github.
 markdown: kramdown

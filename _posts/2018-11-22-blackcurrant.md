@@ -115,7 +115,7 @@ paginate: 4
 ### Automatic Breadcrumbs
 Breadcrumbs are generated for every page and post automatically. The default one looks like this.
 
-{% include ../breadcrumbs.html %}
+{% include breadcrumbs.html %}
 
 The color changes with the color scheme.
 

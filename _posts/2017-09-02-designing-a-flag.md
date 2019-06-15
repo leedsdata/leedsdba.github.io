@@ -1,7 +1,7 @@
 ---
 title: Designing a Flag
 image: /assets/images/shubham-beeharry-223969.jpg
-author: John Doe
+author: Dan Thompson
 categories:
     - work
     - projects

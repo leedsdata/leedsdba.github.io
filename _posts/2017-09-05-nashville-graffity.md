@@ -1,7 +1,7 @@
 ---
 title: Nashville Graffity!
 image: /assets/images/katy-belcher-342066.jpg
-author: John Doe
+author: Dan Thompson
 categories:
     - life
     - adventure

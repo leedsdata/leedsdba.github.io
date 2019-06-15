@@ -1,7 +1,7 @@
 ---
 title: Silver Surfer
 image: /assets/images/anastasia-hofmann-412116.jpg
-author: John Doe
+author: Dan Thompson
 categories:
     - life
     - work
