@@ -25,7 +25,7 @@ Here is the sample.
 # Image, name, profession in the sidebar
 
 image: /assets/images/dan-thompson.png
-name: John Doe
+name: Dan Thompson
 profession: A Web Developer
 email: john@doe.com # The contact form submission  be received in this email address.
 
