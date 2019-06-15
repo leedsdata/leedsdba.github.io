@@ -1,6 +1,6 @@
 # Image, name, profession in the sidebar
 
-image: /blog/assets/images/author-image.jpg
+image: /blog/assets/images/dan-thompson.png
 name: Dan Thompson (LeedsDBA)
 profession: Data Architect
 email: dba@techtree.co.uk # The contact form submissions will be received in this email address.
@@ -22,21 +22,21 @@ menu:
 # Social icons in the sidebar
 # use font awesome icon code in the 'icon:' value
 social:
-  facebook:
-       icon: fa-facebook-square
-       link: https://facebook.com
+  # facebook:
+  #      icon: fa-facebook-square
+  #      link: https://facebook.com
 
   twitter:
       icon: fa-twitter
-      link: https://twitter.com
+      link: https://twitter.com/LeedsDBA
 
   linkedin:
       icon: fa-linkedin
-      link: https://linkedin.com
+      link: https://linkedin.com/LeedsDBA
 
   github:
       icon: fa-github
-      link: https://github.com
+      link: https://github.com/LeedsDBA
 
 
 

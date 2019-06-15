@@ -24,7 +24,7 @@ Here is the sample.
 {% highlight yml %}
 # Image, name, profession in the sidebar
 
-image: /assets/images/author-image.jpg
+image: /assets/images/dan-thompson.png
 name: John Doe
 profession: A Web Developer
 email: john@doe.com # The contact form submission  be received in this email address.
