@@ -97,7 +97,7 @@ recent-posts: yes
 # All compression variables are declared here.
 
 sass:
- sass_dir: /blog/assets/css/_sass
+ sass_dir: /assets/css/_sass
  style: compressed
 
 #compress.html
