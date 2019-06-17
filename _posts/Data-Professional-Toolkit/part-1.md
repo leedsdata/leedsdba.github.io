@@ -1,10 +1,10 @@
 ---
-title: Designing a Flag
+title: Data Platform Toolkit
 image: /assets/images/shubham-beeharry-223969.jpg
 author: Dan Thompson
 categories:
-    - work
-    - projects
+    - containers
+    - tools
 layout: post
 ---
 I keep having meetings with people where I'm certain there are other data platform options that could be used to process/store data much more efficiently, but I'd like to be able to spin up a little test rig to prove/disprove that theory. So I was thinking the other day, wouldn't it be great to have a place where I could spin up pretty much any data platform I wanted to. This blog post will show you how to spin up an environment where you can do just that.
